@@ -1,0 +1,3 @@
+usage: semanage [-h]
+                {import,export,login,user,port,ibpkey,ibendport,interface,module,node,fcontext,boolean,permissive,dontaudit}
+                ...
